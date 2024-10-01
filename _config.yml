@@ -3,8 +3,3 @@ description: your document description
 theme: just-the-docs
 logo: "your_logo_path"
 favicon_ico: "your_icon_path"
-
-url: your_repo_url
-
-aux_links:
-  Repository: your_repo_url
