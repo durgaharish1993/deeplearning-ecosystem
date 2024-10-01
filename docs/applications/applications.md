@@ -1,3 +1,9 @@
+---
+title: applications
+parent: applications
+color_scheme: dark
+---
+
 '''
 Need to bucket this into different applications 
 '''

@@ -1,10 +1,9 @@
-
 ---
-title: ecosystem
-layout: default
-nav_order: 2
+title: ecosystem-tools-data
+parent: ecosystem
 color_scheme: dark
 ---
+
 
 ## 1. Inference Tools 
 - NVIDIA TensorRT
